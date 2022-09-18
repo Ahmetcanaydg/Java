@@ -12,7 +12,7 @@ public class Main {
         System.out.println(ogrenci3);
         System.out.println(ogrenci4);
  
-        System.out.println("********************************");
+        System.out.println("---------------------------");
         String ogrenciler [] = new String[4];
         ogrenciler [0] = "Ahmet ";
         ogrenciler [1] = "Samet";
@@ -24,7 +24,7 @@ public class Main {
             System.out.println(ogrenciler[i]);
 
         }
-        System.out.println("************************************");
+        System.out.println("-----------------------------");
         for (String ogrenci : ogrenciler){
 
             System.out.println(ogrenci);
