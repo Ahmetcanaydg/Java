@@ -14,7 +14,7 @@ public class Main {
 			
 		} else {
 			
-			System.out.println("SAyı 20'den Büyüktür.");
+			System.out.println("Sayı 20'den Büyüktür.");
 		}
 
 				
